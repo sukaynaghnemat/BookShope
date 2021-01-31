@@ -1,0 +1,71 @@
+*{
+    
+    font-style: italic;
+    
+    font-size:30px;
+    color: #251710;
+
+}
+
+#b1 {
+
+    border:3px solid #251710;
+}
+
+body header {
+
+    background-color: #ede0d4;
+   
+
+
+}
+body {
+
+    background-color: #9d6b53;
+}
+
+
+footer {
+
+    background-color: #b07d62;
+    text-align: right;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    margin: 10px;
+    
+
+}
+
+main nav ul{
+    list-style-type: none;
+    display: inline;
+}
+
+.mydiv {
+
+    border:5px solid #b07d62;
+    background-color: #9d6b53;
+    text-align: left;
+    height: 200 px;
+    width: 300px;
+    
+
+
+}
+
+ main nav ul li a {
+    display:inline;
+    text-decoration: none;
+    
+
+}
+
+
+h3{
+
+    display: inline;
+}
+
+
+
